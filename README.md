@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vjp0mjy7t1ywyy8r?svg=true)](https://ci.appveyor.com/project/Poriadinsky/ajs-regular)
